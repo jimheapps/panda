@@ -1,0 +1,15 @@
+{
+  "name": "Panda",
+  "symbol": "PDA",
+  "description": "The Panda Token project aims to raise funds for panda research and conservation efforts.",
+  "image": "https://github.com/jimheapps/panda/blob/main/icon3_png.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/jimheapps/panda/blob/main/icon3_png.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
